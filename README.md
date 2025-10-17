@@ -1,4 +1,4 @@
-# Run-Check
+# Run-Check for Mac!
 Run lots of data causing your program to run a long time? What if you didn't have to check your Mac? The future is now; this workflow sends you a text when the run is done. 
 NOTE
 This is my first github share! I'm new to bioinformatics and coding and whatever else this is. I'm using the terms I know, so if they aren't clear, let me know!
