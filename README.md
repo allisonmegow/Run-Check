@@ -6,7 +6,7 @@ This was made for Tahoe, unsure if it will run on other OS. It's free to try!
 
 
 # How to Use
-1. Ideally, if you are running a program, you have used tmux or nohup to allow it to run in the background. If you haven't, and you aren't long into a run, do it now!!!! Additionally, it is ideal that you prevent your computer from sleeping. You can do this by using caffeinate or altering your settings. Your program will stop if your computer is asleep! (You don't run in your sleep, do you?)
+1. Ideally, if you are running a program, you have used tmux or nohup to allow it to run in the background. If you haven't, and you aren't long into a run, do it now!!!! Additionally, it is important that you prevent your computer from sleeping. You can do this by using caffeinate or altering your settings, but note that this only works if youre plugged into a charger (I've tried to override, no luck). Your program will stop if your computer is asleep! (You don't run in your sleep, do you?)
 
 2. Download the ZIP. This Read me covers the note of the read me in the file, as I prepared it for my friends.
 
